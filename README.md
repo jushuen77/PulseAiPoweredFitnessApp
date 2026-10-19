@@ -232,14 +232,3 @@ To test the tablet layout, use a tablet or resizable emulator profile.
 - Some navigation routes from the original design (for example, calendar and list views for mood history) are placeholders.
 
 ---
-
-## Team
-
-**AMIT3353, Group G4**
-
-- Chin Ju Shuen
-- Lim Yu Xi
-- Lee Zi Yan
-- Adrian Chew
-
-*Tunku Abdul Rahman University of Management and Technology (TAR UMT), Academic Session 202605.*
