@@ -1,6 +1,6 @@
 # Pulse
 
-**AI-powered fitness and wellness app for Android**
+**AI-powered fitness and wellness app for Android developed with Kotlin**
 
 Pulse is a native Android app built for **AMIT3353 Mobile Application Development** (TAR UMT, Academic Session 202605). It addresses **UN Sustainable Development Goal 3: Good Health and Well-being** by combining three AI-powered modules in one app: a workout planner, a food macro detector, and a mental wellness check-in.
 
