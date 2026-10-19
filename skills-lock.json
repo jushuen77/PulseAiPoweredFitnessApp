@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "skills": {
+    "api-security-testing": {
+      "source": "usestrix/strix",
+      "sourceType": "github",
+      "skillPath": "skills/api-security-testing/SKILL.md",
+      "computedHash": "470e04249c0be82a39b198d95620eb557705126b31754faffb35a1ef7584045b"
+    },
+    "application-security-testing": {
+      "source": "usestrix/strix",
+      "sourceType": "github",
+      "skillPath": "skills/application-security-testing/SKILL.md",
+      "computedHash": "b09ede90119485d49b8c263b14fcf7eb816356846f76926a35e5d516427de02c"
+    },
+    "ci-security-scanning-with-strix": {
+      "source": "usestrix/strix",
+      "sourceType": "github",
+      "skillPath": "skills/ci-security-scanning-with-strix/SKILL.md",
+      "computedHash": "cdf25767cbacdd0fea9badce7da3d31f763e2233b65672a1fec8e1064bbdbf20"
+    },
+    "deploy-to-vercel": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/deploy-to-vercel/SKILL.md",
+      "computedHash": "03e0eaaa9bf13ba1e7ffa387f5893de6f324c0868c627001f179395a8feaa7c9"
+    },
+    "find-security-vulnerabilities-in-code": {
+      "source": "usestrix/strix",
+      "sourceType": "github",
+      "skillPath": "skills/find-security-vulnerabilities-in-code/SKILL.md",
+      "computedHash": "95a28198b976b1562c69a0f2d5dfd7b232393a3c48569a8845ad454fe9a302e1"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "b146008599c31057cef1c145774cea5d5afb30e8f43fa802e47a4b461419aaaf"
+    },
+    "fix-security-vulnerabilities-with-strix": {
+      "source": "usestrix/strix",
+      "sourceType": "github",
+      "skillPath": "skills/fix-security-vulnerabilities-with-strix/SKILL.md",
+      "computedHash": "511acdd61ee8c28528d7d65972ba0c70ea14e8b0b697de267a589c363fd36967"
+    },
+    "managed-pentesting-with-strix": {
+      "source": "usestrix/strix",
+      "sourceType": "github",
+      "skillPath": "skills/managed-pentesting-with-strix/SKILL.md",
+      "computedHash": "ff8d0bcfd104d25bfd4f6c96825871016e44ae67c10149c3d0e32198bedf74b8"
+    },
+    "owasp-top-10-testing": {
+      "source": "usestrix/strix",
+      "sourceType": "github",
+      "skillPath": "skills/owasp-top-10-testing/SKILL.md",
+      "computedHash": "99c10a75c2fa8bc17d436557b4f7899aa678fd87874ab803c70a586818871251"
+    },
+    "penetration-testing-with-strix": {
+      "source": "usestrix/strix",
+      "sourceType": "github",
+      "skillPath": "skills/penetration-testing-with-strix/SKILL.md",
+      "computedHash": "f4d335aff0a59a62a62129b1dcfc2d022b9209f5ccf5f6b3a96962cdb6f3833e"
+    },
+    "vercel-cli-with-tokens": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/vercel-cli-with-tokens/SKILL.md",
+      "computedHash": "eb16b20dcbe6ce51e0372083d624e0847af1b09487ec99249227d5a8eddebfc0"
+    },
+    "vercel-composition-patterns": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/composition-patterns/SKILL.md",
+      "computedHash": "575757e3e25761c8c562d6e395d29f0b76c98b1273c0bd72d88e6ab1bc9c7d42"
+    },
+    "vercel-optimize": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/vercel-optimize/SKILL.md",
+      "computedHash": "ad0ef9c5c980f824e2ec19cba5c45426aba923a17e71fbaf6d1830574b62cc44"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "computedHash": "ca7b0c0c6e5f2750043f7f0cd72d16ac4e2abc48f9b5500d047a4b77a2506212"
+    },
+    "vercel-react-native-skills": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-native-skills/SKILL.md",
+      "computedHash": "41d24eafa7c3d82e270439808f7cfbc4d51aeb2d14f2809a2267c16275784d06"
+    },
+    "vercel-react-view-transitions": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-view-transitions/SKILL.md",
+      "computedHash": "b1be40dfc6e714612020c7583b574cc4c92a1b5bc185a7dd3eea5c0123653d1c"
+    },
+    "web-app-penetration-testing": {
+      "source": "usestrix/strix",
+      "sourceType": "github",
+      "skillPath": "skills/web-app-penetration-testing/SKILL.md",
+      "computedHash": "301f9fb6c4b434fd9f5bac03e11d2b18e89a5a7589676230559a6ce7fb6e7861"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "computedHash": "f3bc47f890f42a44db1007ab390709ec368e4b8c089baee6b0007182236ac474"
+    },
+    "writing-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/writing-guidelines/SKILL.md",
+      "computedHash": "25aa3a33a97bddbcb1847ce4a6169106ec25e5b19b15b99c66e75ab383866ef2"
+    }
+  }
+}
